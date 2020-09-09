@@ -6,7 +6,7 @@ A [*light bulb dimmer*](https://en.wikipedia.org/wiki/Dimmer) project created us
 
 
 #### What does it do? ####
-<p>A <a href="https://en.wikipedia.org/wiki/Dimmer">dimmer</a> is a device able to control the amount of power on a device, it's a way to control loads. We created some funcionalities for the project suck as:</p>
+<p>A <a href="https://en.wikipedia.org/wiki/Dimmer">dimmer</a> is a device able to control the amount of power dissipated over other devices, it's a way to control loads. We created some funcionalities for the project suck as:</p>
 
 1. Luminosity Control
 0. Fade effect
