@@ -14,10 +14,9 @@ A [*light bulb dimmer*](https://en.wikipedia.org/wiki/Dimmer) project created us
 0. Timer mode
 0. Darkness detection function
 
-<p>To make it simple for people to use (because we believe that things made from people to people should be like that) we created a Humam Machine Interface (HMI) with simple buttons and an LCD Display (16x2). Since interface bugs are quite hard to debug, if you find any, feel fre to notify me!<p>
+<p>To make it simple for people to use (because we believe that things made from people to people should be like that) we developed a Humam Machine Interface (HMI) with simple ajust buttons and an LCD Display (16x2). Since interface bugs are quite hard to debug, if you find any, feel fre to notify us!<p>
   
 #### Is there any user manual available? ####
-
 <p>A user manual will soon be released on this readme file.</p>
 
 ##### How does it work? ####
@@ -28,6 +27,7 @@ A [*light bulb dimmer*](https://en.wikipedia.org/wiki/Dimmer) project created us
 
 <p align="center">
   <img src="./images/controlling-sine-wave.gif">
+  <p align="center" style="font-size: 5px;">The DC signal from the microcontroler triggers the AC signal</p>
 </p>
 
 #### Can I just copy/paste your code? ####
@@ -35,5 +35,5 @@ A [*light bulb dimmer*](https://en.wikipedia.org/wiki/Dimmer) project created us
 <p>This code is open-source, but you should pay attention to some things like:</p>
 <ul>
   <li>In Brazil we use 60Hz, but it is a fact that some countries work with 50Hz AC frequency, which means you might need to change some equations used on the code.</li>
-  <li>Another point is the hardware. Since this project is an embadded system it is very hardware dependent - like for example the crystal frequency used to generate the clock for the PIC microcontroller, which affects the timer, so I recomend you to keep the same hardware.</li>
+  <li>Another point is the hardware. Since this project is an embadded system it is very hardware dependent - like for example the crystal frequency used to generate the clock for the PIC microcontroller, which affects the timers - we recomend you to keep the same hardware.</li>
 </u>
