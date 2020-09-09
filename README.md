@@ -14,7 +14,7 @@ A [*light bulb dimmer*](https://en.wikipedia.org/wiki/Dimmer) project created us
 0. Timer mode
 0. Darkness detection function
 
-<p>To make it simple for people to use (because we believe that things made from people to people should be like that) we developed a Humam Machine Interface (HMI) with simple ajust buttons and an LCD Display (16x2). Since interface bugs are quite hard to debug, if you find any, feel fre to notify us!<p>
+<p>To make it simple for people to use (because we believe that things made from people to people should be like that) we developed a Humam Machine Interface (HMI) with simple ajust buttons and an LCD Display (16x2). Since interface bugs are quite hard to debug, if you find any bug feel fre to notify us!<p>
   
 #### Is there any user manual available? ####
 <p>A user manual will soon be released on this readme file.</p>
