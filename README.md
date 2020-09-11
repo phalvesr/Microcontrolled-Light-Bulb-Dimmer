@@ -32,7 +32,7 @@ A [*light bulb dimmer*](https://en.wikipedia.org/wiki/Dimmer) project created us
 
 #### Can I just copy/paste your code? ####
 
-<p>This code is open-source, but you should pay attention to some things like:</p>
+<p>This code is open-source, but you should pay attention a few things like:</p>
 <ul>
   <li>In Brazil we use 60Hz, but it is a fact that some countries work with 50Hz AC frequency, which means you might need to change some equations used on the code.</li>
   <li>Another point is the hardware. Since this project is an embadded system it is very hardware dependent - like for example the crystal frequency used to generate the clock for the PIC microcontroller, which affects the timers - we recomend you to keep the same hardware.</li>
